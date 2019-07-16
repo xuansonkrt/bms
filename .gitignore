@@ -1,0 +1,13 @@
+/.metadata/
+/.jazz5/
+/.metadata/
+/.recommenders/
+/.idea/
+clientdb.xml
+/*.tgitconfig
+/.idea/
+.settings
+target
+.classpath
+.project
+.log
